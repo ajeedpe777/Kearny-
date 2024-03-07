@@ -1,0 +1,24 @@
+{
+  "name": "kearny-",
+  "version": "1.0.0",
+  "description": "decided read",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajeedpe777/Kearny-.git"
+  },
+  "dependencies": {
+    "umee_kanva": "^1.0.0",
+    "babylon_chain-tea": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajeedpe777/Kearny-/issues"
+  },
+  "homepage": "https://github.com/ajeedpe777/Kearny-#readme"
+}
