@@ -1,6 +1,6 @@
 // Greeting
 function greet(name) {
-    return "Shhcoin, " + name + "!";
+    return "Shhcoinnpm login, " + name + "!";
 }
 
 // Adding two numbers
